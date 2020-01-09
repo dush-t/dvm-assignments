@@ -48,9 +48,9 @@ Finally, you'll be hosting your project on the internet.
 #### Phase 4: Celebrate the completion of your project with a treat from your seniors back on campus :D
 
 ### Time Alloted
-  - Phase 1: 7 Days
-  - Phase 2: 4 Days
-  - Phase 3: 3 Days
+  - Phase 1 - 7 Days
+  - Phase 2 - 4 Days
+  - Phase 3 - 3 Days
 
 ### Submission Rules
 ***Securely*** share the source code on GitHub under your own account.  
@@ -65,4 +65,4 @@ What Securely means:
 Basically, don't share any data that must be kept secret.  
 **Hint**: Make a python file where you store all of these values as variables (sort of like C/C++ macros in a header file), then add this file to your gitignore. Generally, we prefer to call that file the keyconfig.
 
-Assignment compiled by [hypro999](https://github.com/hypro999)
+*Assignment compiled by [hypro999](https://github.com/hypro999) from DVM*
