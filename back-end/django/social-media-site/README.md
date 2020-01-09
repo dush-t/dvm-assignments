@@ -48,8 +48,9 @@ Finally, you'll be hosting your project on the internet.
 #### Phase 4: Celebrate the completion of your project with a treat from your seniors back on campus :D
 
 ### Time Alloted
-  - Assigned on: December 12th, 2018
-  - Due by: January 13th, 2018
+  - Phase 1: 7 Days
+  - Phase 2: 4 Days
+  - Phase 3: 3 Days
 
 ### Submission Rules
 ***Securely*** share the source code on GitHub under your own account.  
