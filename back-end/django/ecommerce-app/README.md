@@ -104,3 +104,5 @@ What Securely means:
 
 Basically, don't share any data that must be kept secret.  
 **Hint**: Make a python file where you store all of these values as variables (sort of like C/C++ macros in a header file), then add this file to your gitignore. Generally, we prefer to call that file the keyconfig.
+
+*Assignment compiled by [dush-t](https://github.com/dush-t) from DVM*
