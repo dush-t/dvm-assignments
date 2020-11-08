@@ -5,4 +5,4 @@ You have to create a simple app similar to WhatsApp in functionality and appeara
 The app has been divided into multiple phases which are described below.  
 ## Phase 1: Clone the UI
 1. Make a non-functional clone of the app. This means you only have to mimic the appearance and the navigation features of the app.  
-- Hello
+    - Hello
