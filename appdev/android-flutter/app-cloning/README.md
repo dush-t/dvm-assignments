@@ -18,7 +18,7 @@ The app has been divided into multiple phases which are described below.
 ### Phase 3: Chat Functionality  
 1. Implement chat functionality. This means the users should be able to chat with each other i.e. the users should be able to see the messages they send or have been sent to them by other users.  
 2. This will be done using [Cloud Firestore](https://firebase.google.com/docs/firestore) service of Google Firebase. The app chats can be saved and retrieved using this feature and messages can be seen again even if user closes the app and restarts it.  
-### Phase 4: Implment Image Sharing  
+### Phase 4: Implement Image Sharing  
 1. Users should be able to share images with each other through chats.  
 2. The image to be shared can be selected using [image_picker](https://pub.dev/packages/image_picker) package (Flutter). The image then needs to compressed using [flutter_image_compress](https://pub.dev/packages/flutter_image_compress) package (Flutter) before sending it to the server. 
 3. After the image has been compressed, it can be sent to the server using [Cloud Storage](https://firebase.google.com/docs/storage) service of Google Firebase. The app would be able to store image shared by a user in the storage on the server, and display the image to the user with whom the images have been shared.  
