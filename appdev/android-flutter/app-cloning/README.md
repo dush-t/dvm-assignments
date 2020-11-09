@@ -27,4 +27,4 @@ The app has been divided into multiple phases which are described below.
    - Phase 3:   
    - Phase 4:   
 #
-_Task compiled by mihir1607() from BITS-ACM_
+_Task compiled by [mihir1607](https://github.com/mihir1607) from BITS-ACM_
