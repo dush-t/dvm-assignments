@@ -25,5 +25,5 @@ The app has been divided into multiple phases which are described below.
    - Phase 1:   
    - Phase 2:   
    - Phase 3:   
-   - Phase 4:   
+   - Phase 4:     
 Task compiled by 
