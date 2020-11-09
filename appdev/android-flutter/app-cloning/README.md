@@ -22,8 +22,8 @@ The app has been divided into multiple phases which are described below.
 1. Users should be able to share images with each other through chats.  
 2. This can be done using [Cloud Storage](https://firebase.google.com/docs/storage) service of Google Firebase. The app would be able to store images shared by a user in the storage on the server, and display the images to the user with whom the images have been shared.  
 ### Time allotted -  
-    - Phase 1:   
-    - Phase 2:   
-    - Phase 3:   
-    - Phase 4:   
+   - Phase 1:   
+   - Phase 2:   
+   - Phase 3:   
+   - Phase 4:   
 Task compiled by 
