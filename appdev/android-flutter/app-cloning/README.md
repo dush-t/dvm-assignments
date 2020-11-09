@@ -3,7 +3,7 @@ A simple clone of the popular app 'WhatsApp'. Go through the task given below to
 ## **Task**  
 You have to create a simple app similar to WhatsApp in functionality and appearance. In other words, you would be creating UI similar to WhatsApp and adding chat functionality along with image sharing facility (the app would have offline support as well). The users have to register themselves on the app before using it.  
 The app has been divided into multiple phases which are described below.  
-## Phase 1: Clone the UI
+### Phase 1: Clone the UI
 1. Make a non-functional clone of the app. While working on the UI, following things have to be implemented -  
     - Create different screens for the 'CHATS', 'STATUS' and 'CALLS' tabs, similar to the original app.  
     - Work on the navigation feature for navigating from any one of the above tabs to another tab.  
