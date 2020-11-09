@@ -10,4 +10,5 @@ The app has been divided into multiple phases which are described below.
     - Create the chat screen, which would be visible once the user taps on any of the personal chats (which are displayed under the 'CHATS' tab) on their device.  
 2. The user should be able to navigate from any tab to another by tapping on another tab.  
 3. The user should be able to get to the personal chat screen whenthey tap on any of their contacts on 'CHATS' tab.  
-4. You have to implement the app only in Light mode.
+4. You have to implement the app only in Light mode.  
+### Phase 2: Chat Functionality  
