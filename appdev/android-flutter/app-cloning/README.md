@@ -21,7 +21,7 @@ The app has been divided into multiple phases which are described below.
 ### Phase 4: Implement Image Sharing  
 1. Users should be able to share images with each other through chats.  
 2. The image to be shared can be selected using [image_picker](https://pub.dev/packages/image_picker) package (Flutter). The image then needs to compressed using [flutter_image_compress](https://pub.dev/packages/flutter_image_compress) package (Flutter) before sending it to the server. 
-3. After the image has been compressed, it can be sent to the server using [Cloud Storage](https://firebase.google.com/docs/storage) service of Google Firebase. The app would be able to store image shared by a user in the storage on the server, and display the image to the user with whom the images have been shared.  
+3. After the image has been compressed, it can be sent to the server using [Cloud Storage](https://firebase.google.com/docs/storage) service of Google Firebase. The app would be able to store image shared by a user in the storage on the server, and display the image to the user with whom the image has been shared.  
 ### Time allotted -  
    - Phase 1 : 5 days  
    - Phase 2 : 2 days  
