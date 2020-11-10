@@ -13,7 +13,7 @@ The app has been divided into multiple phases which are described below.
 3. The user should be able to get to the personal chat screen whenthey tap on any of their contacts on 'CHATS' tab.  
 4. You have to implement the app in Light mode only.  
 ### Phase 2: Implement authentication, Link the app to device contacts list  
-1. Implement user authentication using ''. This can be done using Google's [Firebase authentication](https://firebase.google.com/docs/auth). This is necessary to identify the person to whom a message should be sent.  
+1. Implement user authentication using Phone Number and OTP. This can be done using Google's [Firebase authentication](https://firebase.google.com/docs/auth). This is necessary to identify the person to whom a message should be sent.  
 2. For the app to send messages, the app would have to get the contacts list stored on the device using [contacts_service ](https://pub.dev/packages/contacts_service) package (Flutter) or [contacts-provider](https://developer.android.com/guide/topics/providers/contacts-provider) package (Android).  
 ### Phase 3: Chat Functionality  
 1. Implement chat functionality. This means the users should be able to chat with each other i.e. the users should be able to see the messages they send or have been sent to them by other users.  
@@ -23,9 +23,9 @@ The app has been divided into multiple phases which are described below.
 2. The image to be shared can be selected using [image_picker](https://pub.dev/packages/image_picker) package (Flutter). The image then needs to compressed using [flutter_image_compress](https://pub.dev/packages/flutter_image_compress) package (Flutter) before sending it to the server. 
 3. After the image has been compressed, it can be sent to the server using [Cloud Storage](https://firebase.google.com/docs/storage) service of Google Firebase. The app would be able to store image shared by a user in the storage on the server, and display the image to the user with whom the images have been shared.  
 ### Time allotted -  
-   - Phase 1:   
-   - Phase 2:   
-   - Phase 3:   
-   - Phase 4:   
+   - Phase 1 : 5 days  
+   - Phase 2 : 2 days  
+   - Phase 3 : 5 days  
+   - Phase 4 : 4 days  
 #
 _Task compiled by [mihir1607](https://github.com/mihir1607) from BITS-ACM_
